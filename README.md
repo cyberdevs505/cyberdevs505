@@ -97,7 +97,7 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
       <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api/?username=cyberdevs505&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=61E2FF&icon_color=2D8CFF&text_color=F8F8F8&custom_title=CyberDevs%27%20GitHub%20Stats" height="192px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyberdevs505&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=61E2FF&icon_color=2D8CFF&text_color=F8F8F8&custom_title=CyberDevs%27%20Top%20Languages" height="192px"/>
+      <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyberdevs505&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=61E2FF&icon_color=2D8CFF&text_color=F8F8F8&custom_title=CyberDevs%27%20Top%20Languages&hide=html" height="192px"/>
     </a>
   </div>
 </details>
