@@ -1,2 +1,5 @@
 *.kt linguist-language=Kotlin
 *.py linguist-language=Python
+*.cs linguist-language=C#
+*.js linguist-language=JavaScript
+
