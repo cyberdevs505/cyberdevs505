@@ -33,7 +33,7 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=android" alt="Android" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="48" height="48" />
       <br><b>Android</b>
     </td>
     <td align="center" width="110">
