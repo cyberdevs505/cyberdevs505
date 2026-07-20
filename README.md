@@ -89,7 +89,7 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
 
 ### 📊 Github Stats & Activity
 
-<details>
+<details open>
   <summary><b>📈 View Performance Stats</b></summary>
   <br/>
   <div align="center">
@@ -102,7 +102,7 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>🔥 View Activity Graph</b></summary>
   <br/>
   <div align="center">
@@ -112,7 +112,7 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>👁️ Profile Views & Wakatime</b></summary>
   <br/>
   <div align="center">
