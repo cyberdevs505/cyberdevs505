@@ -94,10 +94,10 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
   <br/>
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api/?username=rzashakeri&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=61E2FF&icon_color=2D8CFF&text_color=F8F8F8&custom_title=CyberDevs%27%20GitHub%20Stats" height="192px"/>
+      <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api/?username=cyberdevs505&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=61E2FF&icon_color=2D8CFF&text_color=F8F8F8&custom_title=CyberDevs%27%20GitHub%20Stats" height="192px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=61E2FF&icon_color=2D8CFF&text_color=F8F8F8&custom_title=CyberDevs%27%20Top%20Languages" height="192px"/>
+      <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyberdevs505&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=61E2FF&icon_color=2D8CFF&text_color=F8F8F8&custom_title=CyberDevs%27%20Top%20Languages" height="192px"/>
     </a>
   </div>
 </details>
@@ -107,7 +107,7 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
   <br/>
   <div align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=030712&color=61E2FF&line=2D8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=CyberDevs%27%20Contribution%20Graph" width="100%" />
+      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdevs505&bg_color=030712&color=61E2FF&line=2D8CFF&point=FFFFFF&area=true&hide_border=true&custom_title=CyberDevs%27%20Contribution%20Graph" width="100%" />
     </a>
   </div>
 </details>
@@ -116,6 +116,6 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
   <summary><b>👁️ Profile Views & Wakatime</b></summary>
   <br/>
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=2D8CFF" alt="Views"/>
+    <img src="https://komarev.com/ghpvc/?username=cyberdevs505&label=PROFILE+VIEWS&style=for-the-badge&color=2D8CFF" alt="Views"/>
   </div>
 </details>
