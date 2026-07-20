@@ -82,7 +82,7 @@ Welcome to the official GitHub profile of **CyberDevs**. We are a forward-thinki
 ### 🌟 Project Background
 
 <div align="center">
-  <img src="Untitled Project.webp" alt="CyberDevs Project background" width="100%"/>
+  <img src="project_background.png" alt="CyberDevs Project Background" width="100%"/>
 </div>
 
 ---
